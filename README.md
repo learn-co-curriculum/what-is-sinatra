@@ -12,7 +12,6 @@ We'll introduce you to the concept of web frameworks and Sinatra in particular. 
 4. Install Sinatra on your computer
 5. Run a basic Sinatra application
 
-
 ## Web Applications
 
 How does Twitter have different pages for each of its 300 million users? How can AirBnB support over 40 million guests with over 1.5 million listings worldwide? All of this is possible because of web applications.
